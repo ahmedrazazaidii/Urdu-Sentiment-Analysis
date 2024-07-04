@@ -32,28 +32,15 @@ The models are evaluated based on the following metrics:
 - Recall
 - F-score
 
-## Results
+## Conclusion
 
-The results are reported in a table, including the best parameter values for each model.
+Overall, the advanced models (GRU, LSTM, and BiLSTM) are expected to outperform the basic RNN model due to their ability to handle long-term dependencies more effectively. Among them, BiLSTM typically achieves the best results by leveraging information from both directions in a sequence. The hyperparameters need to be tuned carefully to balance model complexity and regularization to achieve optimal performance.
 
 
-## Setup and Usage
-
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/ahmedrazazaidi/Urdu-Sentiment-Analysis.git
-    cd Urdu-Sentiment-Analysis
-    ```
-
-2. **Install the required dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Download the dataset:**
+**Download the dataset:**
     Download the dataset from [here](https://github.com/MuhammadYaseenKhan/Urdu-Sentiment-Corpus/blob/master/urdu-sentiment-corpus-v1.tsv) and place it in the `data/` directory.
 
-4. **Run the notebook:**
+**Run the notebook:**
     Open `UrduSentimentAnalysis.ipynb` in Jupyter Notebook and run all the cells to train and evaluate the models.
    
 
