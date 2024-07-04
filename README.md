@@ -38,8 +38,7 @@ Overall, the advanced models (GRU, LSTM, and BiLSTM) are expected to outperform 
 
 
 **Download the dataset:**
-    Download the dataset from [here](https://github.com/MuhammadYaseenKhan/Urdu-Sentiment-Corpus/blob/master/urdu-sentiment-corpus-v1.tsv) and place it in the `data/` directory.
-
+    Download the dataset from [here](https://github.com/MuhammadYaseenKhan/Urdu-Sentiment-Corpus/blob/master/urdu-sentiment-corpus-v1.tsv).
 **Run the notebook:**
     Open `UrduSentimentAnalysis.ipynb` in Jupyter Notebook and run all the cells to train and evaluate the models.
    
