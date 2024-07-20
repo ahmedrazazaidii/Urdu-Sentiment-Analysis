@@ -4,7 +4,7 @@ This project focuses on implementing sequence-based deep learning models for Urd
 
 ## Dataset
 
-The dataset used for this project can be found [here](https://github.com/MuhammadYaseenKhan/Urdu-Sentiment-Corpus/blob/master/urdu-sentiment-corpus-v1.tsv). It contains Urdu tweets labeled with sentiment classes:
+The dataset used for this project can be found [here](https://github.com/MuhammadYaseenKhan/Urdu-Sentiment-Corpus/blob/master/urdu-sentiment-corpus-v1.tsv) and it is also provided above. It contains Urdu tweets labeled with sentiment classes:
 - P (Positive)
 - N (Negative)
 
